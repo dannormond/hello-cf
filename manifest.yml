@@ -1,0 +1,7 @@
+---
+applications:
+- name: dann-test
+  memory: 128M
+  domain: dev.geointservices.io
+  env:
+    TEST: Iwant$$
